@@ -967,6 +967,7 @@ fieldset[disabled] .btn-theme {
 
 .carousel-centered {
   position: absolute;
+  margin-left: 120px
   top: 50%;
   -webkit-transform: translate3d(0, -50%, 0);
   -moz-transform: translate3d(0, -50%, 0);
